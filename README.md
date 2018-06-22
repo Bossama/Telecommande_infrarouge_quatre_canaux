@@ -6,3 +6,5 @@ Le 1er est un émetteur possède 4 bouton dont chaque à leur propre période
 
 Le 2 -ème est un récepteur qui va traiter le signal délivrer par l’émetteur et puis (après une phase de sélection) ce signal va 
 assurer soit la mise en marche ou l’arrêt de l’une des 4 canaux dont deux voix en 12V DC et deux autres en 220V AC. 
+
+Programme utulise : Eagle 7.7 win64
